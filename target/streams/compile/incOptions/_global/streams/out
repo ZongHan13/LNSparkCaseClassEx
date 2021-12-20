@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes.bak[0m

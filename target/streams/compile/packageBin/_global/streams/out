@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/lnsparkcaseclassex-0.0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceTempByCountry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/DeviceTempByCountry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceIoTData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/DeviceIoTData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceTempByCountry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/DeviceTempByCountry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeviceIoTData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/DeviceIoTData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CaseClassEx$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/han/LNSparkCaseClassEx/target/scala-2.12/sbt-1.0/classes/CaseClassEx$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
